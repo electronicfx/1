@@ -182,8 +182,6 @@ netbios-ssn
 crl.comodoca.com
 sf.symcb.com
 na1e-acc.services.adobe.com
-steamcdn-a.akamaihd.net
-steamstore-a.akamaihd.net
 science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 checkappexec.microsoft.com
 genuine.adobe.com
