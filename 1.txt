@@ -121,7 +121,6 @@ ws.onlyfans.com
 /.ru$/
 /*.fritz.box/
 .fritz.box
-.ru
 .mozgcp.net
 o389295.ingest.sentry.io
 ap-api2.stable.prod.project-aperion.net
@@ -191,3 +190,17 @@ cclibraries-defaults-cdn.adobe.com
 cdn-ffc.oobesaas.adobe.com
 crs.cr.adobe.com
 wdcp.microsoft.com
+https://*.amazon-adsystem.com/*
+https://cdn.krxd.net/*
+https://script.ioam.de/iam.js
+https://edge.quantserve.com/quant.js
+https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js
+https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.5/v6s.js
+https://*.imrworldwide.com/*
+https://countess.twitch.tv/*
+https://*.scorecardresearch.com/*
+https://www.googletagservices.com/tag/js/gpt.js
+*://*.branch.io/*
+*://comscore.com/*
+
+
