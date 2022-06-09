@@ -7,8 +7,8 @@
 /.wuaki.tv/
 /.dazn.com/
 /.nflxso.net/
-/onlyfans.com/
-/patreon.com/	
+/.onlyfans.com/
+/.patreon.com/	
 tvpnlogopeu.samsungcloud.tv
 /.tiktokv.com/
 /.bing.com/
