@@ -74,7 +74,6 @@ wdcp.microsoft.com
 /.cdn.krxd.net/
 /.script.ioam.de/
 /.edge.quantserve.com/
-/.cloudfront.net/
 /.imrworldwide.com/
 /.scorecardresearch.com/
 /.googletagservices.com/
