@@ -61,7 +61,6 @@ crl4.digicert.com
 crl.comodoca.com
 sf.symcb.com
 na1e-acc.services.adobe.com
-science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 checkappexec.microsoft.com
 genuine.adobe.com
 cc-cdn.adobe.com
