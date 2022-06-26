@@ -81,7 +81,6 @@ ssl.gstatic.com
 ogs.google.com
 www3.l.google.com
 /.googleusercontent.com/
-/.amazonaws.com|/
 /.cloudfront.net|/
 /.fastly.net|/
 /.shopifycdn.com|/
