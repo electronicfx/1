@@ -80,8 +80,6 @@ ssl.gstatic.com
 ogs.google.com
 www3.l.google.com
 /.googleusercontent.com/
-/.cloudfront.net|/
-/.fastly.net|/
 /.shopifycdn.com|/
 www.nattersbeauty.com
 www.xyxyz.xyz
