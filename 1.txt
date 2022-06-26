@@ -76,7 +76,6 @@ wdcp.microsoft.com
 /.branch.io/
 /.comscore.com/
 /.soundalerts.com|/
-/.cloudfront.net|/
 ssl.gstatic.com
 ogs.google.com
 www3.l.google.com
