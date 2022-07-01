@@ -72,7 +72,6 @@ wdcp.microsoft.com
 /.branch.io/
 /.comscore.com/
 /.soundalerts.com|/
-/.ogleusercontent.com/
 /.shopifycdn.com|/
 www.nattersbeauty.com
 www.xyxyz.xyz
