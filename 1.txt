@@ -6,7 +6,6 @@
 /.chili.com/
 /.wuaki.tv/
 /.dazn.com/
-/.nflxso.net/	
 tvpnlogopeu.samsungcloud.tv
 /.tiktokv.com/
 /.bing.com/0
@@ -41,17 +40,14 @@ api.edgeoffer.microsoft.com
 pti.store.microsoft.com
 ts-crl.ws.symantec.com
 crl.thawte.com
-crl3.digicert.com
 csc3-2010-crl.verisign.com
 crl.verisign.com
-ocsp.digicert.com
 www2.ati.com
 lic-iris-content-prod.mwbsys.com
 prod.detectportal.prod.cloudops.mozgcp.net
 storecatalogrevocation.storequality.microsoft.com
 /.verisign.com/
 x1.c.lencr.org
-crl4.digicert.com
 crl.comodoca.com
 sf.symcb.com
 na1e-acc.services.adobe.com
