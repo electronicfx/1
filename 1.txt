@@ -47,7 +47,6 @@ lic-iris-content-prod.mwbsys.com
 prod.detectportal.prod.cloudops.mozgcp.net
 storecatalogrevocation.storequality.microsoft.com
 /.verisign.com/
-x1.c.lencr.org
 crl.comodoca.com
 sf.symcb.com
 na1e-acc.services.adobe.com
