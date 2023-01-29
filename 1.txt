@@ -42,7 +42,6 @@ ts-crl.ws.symantec.com
 crl.thawte.com
 csc3-2010-crl.verisign.com
 crl.verisign.com
-www2.ati.com
 lic-iris-content-prod.mwbsys.com
 prod.detectportal.prod.cloudops.mozgcp.net
 storecatalogrevocation.storequality.microsoft.com
