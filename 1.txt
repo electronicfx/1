@@ -7,7 +7,6 @@
 /.wuaki.tv/
 /.dazn.com/
 tvpnlogopeu.samsungcloud.tv
-/.tiktokv.com/
 /.bing.com/0
 /.in-addr.arpa/
 .cn|
