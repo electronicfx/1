@@ -71,7 +71,6 @@ www.xyxyz.xyz
 ec2-52-203-49-66.compute-1.amazonaws.com
 /zdassets/
 /patreon/
-/onlyfans/
 /.maxon.net/
 /honey.com/
 /voicemod./
