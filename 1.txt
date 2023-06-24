@@ -82,9 +82,7 @@ ec2-52-203-49-66.compute-1.amazonaws.com
 /^.*r[0-z]{1,}.*sn-*[0-z]{1,}-[0-z]{1,}\.googlevideo\.com$/
 /watson\..*\.microsoft\.com/
 /ims-prod06.adobelogin.com/
-||fastly.net^
-||abs-zero.twimg.com^
-||static.cdninstagram.com^
+||abs-zero.twimg.com^||static.cdninstagram.com^
 ||vas.samsungapps.com^
 ||oneclient.sfx.ms^
 ||roughtime.int08h.com^
