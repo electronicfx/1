@@ -89,3 +89,43 @@ www.usp-forum.de
 js.forumhelden.de
 tutonaut.de
 encrypted-tbn0.gstatic.com
+/(^|\.)ru$/
+/(^|\.)su$/
+/(^|\.)рф$/
+/(^|\.)xn--p1ai$/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+/^(.+[_.-])?klarna(cdn)?[0-9]*[_.-]/
+/^(.+[_.-])?wpad?[0-9]*[_.-]/
+127.0.0.1 data.microsoft.com
+127.0.0.1 msftconnecttest.com
+127.0.0.1 azureedge.net
+127.0.0.1 activity.windows.com
+127.0.0.1 bingapis.com
+127.0.0.1 msedge.net
+127.0.0.1 assets.msn.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 edge.microsoft.com
+127.0.0.1 data.msn.com
+||remote-data.urbanairship.com^
+||httpdns-euex-push.heytapmobile.com^
+||assets.adobedtm.com^
+||s1.adform.net^
+||img.chefkoch-cdn.de^
+||pool.ntp.org^
+||dl.google.com^
+||gaming.amazon.com^
+||3gppnetwork.org^
+||mtalk.google.com^
+||tiktokcdn.com^
