@@ -23,11 +23,7 @@ ap-status.default.global.project-aperion.net
 ar4fod1791yf4-ats.iot.us-west-2.amazonaws.com
 dynamodb.us-east-2.amazonaws.com
 void.steelseries.com
-dns.msftncsi.com
-r3.o.lencr.org
-api.met.no
-config.prd.platform.s.seventv.com
-iris.mwbsys.com
+config.prd.platform.s.seventv.comiris.mwbsys.com
 ipv4only.arpa
 iarhkj9keb.execute-api.us-east-1.amazonaws.com
 login.live.com
