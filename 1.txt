@@ -114,14 +114,3 @@ encrypted-tbn0.gstatic.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 edge.microsoft.com
 127.0.0.1 data.msn.com
-||remote-data.urbanairship.com^
-||httpdns-euex-push.heytapmobile.com^
-||assets.adobedtm.com^
-||s1.adform.net^
-||img.chefkoch-cdn.de^
-||pool.ntp.org^
-||dl.google.com^
-||gaming.amazon.com^
-||3gppnetwork.org^
-||mtalk.google.com^
-||tiktokcdn.com^
